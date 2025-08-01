@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" alt="Trigi Digital Logo" width="500" height="auto">
+  <img src="official-logo.svg" alt="Trigi Digital Logo" width="500" height="auto">
   
   ### Intelligent Automation for Tomorrow's Business
   
